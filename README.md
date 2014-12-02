@@ -16,8 +16,9 @@ Technical Details:
 
 Dependencies:
 ------------
-    Servoblaster (component of PiBits): https://github.com/richardghirst/PiBits
+    Servoblaster: https://github.com/richardghirst/PiBits
     lcddriver.py: http://www.recantha.co.uk/blog/?p=4849
+    i2c_lib.py: http://www.recantha.co.uk/blog/?p=4849
     Big thanks to the folks who developed these two!
 
 Gullibot Team:
